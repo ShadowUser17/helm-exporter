@@ -1,0 +1,4 @@
+flake8==7.0.0
+pip-audit==2.7.2
+kubernetes==27.2.0
+prometheus_client==0.20.0
